@@ -16,15 +16,15 @@
 ```mermaid
 journey
 	title   My Journy in Computer Engineering
-	section 2019
+	section 2021
 		I start studying: 1: Me
 		Make notes: 2: Me
 		Ask friend for help: 3: Me, Friend
 		We study togther: 5: Me, Friend
-	section Exam Day
+	section 2020
 		Syllabys is incomplete: 2: Me
 		Give exam: 1: Me, Friend
-	section Result Declared
+	section 2021
 		I passed the exam with destinction!: 5: Me
 		Friend barely gets passing marks: 2: Friend
 ```
