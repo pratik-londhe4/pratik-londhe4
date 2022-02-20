@@ -15,8 +15,9 @@
 
 ```mermaid
 journey
-	title   My Journy in Computer Engineering
+	title   My Journy 
 	section 2021
+		Learnt basic html and css: 1
 		
 	section 2020
 		
