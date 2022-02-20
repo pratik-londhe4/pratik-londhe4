@@ -16,10 +16,11 @@
 ```mermaid
 journey
 	title   My Journy 
-	section 2021
-		Learnt basic html and css: 1
-		
 	section 2020
+		Learnt basic html and css: 1
+		Got interested in arduino programming : 2
+		
+	section 2021
 		
 	section 2021
 		
