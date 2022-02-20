@@ -19,8 +19,12 @@ journey
 	section 2020
 		Learnt basic html and css  :  1
 		Got interested in arduino  : 3
+		Didn't really liked web dev : 1
 		
 	section 2021
+		Friend introduced me to javascript : 4
+		Learnt how to create api using js : 5
+		Invested some time to learn react : 6
 		
 	section 2021
 		
