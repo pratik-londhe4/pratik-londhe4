@@ -18,7 +18,7 @@ journey
 	title   My Journy 
 	section 2020
 		Learnt basic html and css: 1
-		Got interested in arduino programming : 2
+		Got interested in arduino programming : 3
 		
 	section 2021
 		
