@@ -15,8 +15,8 @@
 
 ```mermaid
 journey
-	title Me studying for exams
-	section Exam is announced
+	title   My Journy in Computer Engineering
+	section 2019
 		I start studying: 1: Me
 		Make notes: 2: Me
 		Ask friend for help: 3: Me, Friend
