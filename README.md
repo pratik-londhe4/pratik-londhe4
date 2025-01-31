@@ -7,8 +7,5 @@
 
 
 
-![counter](https://enwkpcvf4u5d59g.m.pipedream.net)
-
-
 
 
